@@ -133,20 +133,3 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 
-.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/unp.iml
-.idea/workspace.xml
-CMakeLists.txt
-addrinfo.h
-cmake-build-debug/
-config.h
-gettimeclient.c
-libunp.a
-main.c
-time_server.c
-unp.h
-unpifi.h
-unprtt.h
-unpthread.h
